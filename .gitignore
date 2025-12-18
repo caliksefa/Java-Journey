@@ -1,0 +1,11 @@
+# IntelliJ Proje Dosyaları
+.idea/
+*.iml
+
+# Derlenmiş Class Dosyaları
+out/
+*.class
+
+# Sistem Dosyaları
+.DS_Store
+Thumbs.db
